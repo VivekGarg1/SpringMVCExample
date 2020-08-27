@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<a href="/SpringMVCExample/welcome">Welcome Page</a>
 <a href="/SpringMVCExample/domains/domain/www.google.com">Your domain</a>
 <a href="/SpringMVCExample/users/user/Vivek/23?country=India">User detail</a>
 </body>
